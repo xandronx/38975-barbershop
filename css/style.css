@@ -1,14 +1,14 @@
 body {
-	font-family:"PTsans" ,arial, verdana, san-serif;
+	font-family:"PTsans" ,arial, verdana, sans-serif;
     font-size:14px;
 	line-height:22px;
-	color:000000;
+	color:#000000;
 	font-weight: bold;
 	}
 .index_content_title {
-	font-family:"PTsans" ,arial, verdana, san-serif;
+	font-family:"PTsans" ,arial, verdana, sans-serif;
     font-size:30px;
 	line-height:30px;
-	color:000000;
+	color:#000000;
 	font-weight: bold;
 	}
