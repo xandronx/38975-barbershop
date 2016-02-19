@@ -1,3 +1,10 @@
+.clearfix::after  {
+	content:"";
+	display:table;
+	clear: both;
+     }
+	 
+	 
 body {
 	font-family:"PTsans" ,arial, verdana, sans-serif;
     font-size:14px;
@@ -12,3 +19,10 @@ body {
 	color:#000000;
 	font-weight: bold;
 	}
+
+.container {
+  background-color:#ccc9c9;
+  width: 940px;
+  margin: 0 auto;
+  padding: 0 10px;
+ }
