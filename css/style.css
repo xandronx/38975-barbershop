@@ -5,13 +5,16 @@
     }
 	  
 body {
-	font-family:"PTsans" ,arial, verdana, sans-serif;
-    font-size:14px;
-	line-height:22px;
-	color:#000000;
-	font-weight: bold;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: "PT Sans Narrow", "Arial", sans-serif;
+  min-width:960px;
+  color: #ffffff;
+  text-transform:uppercase;
+  background: #000000 url("../img/bg.jpg"); no-repeat center top;
 	}
-	
+
 .index_content_title {
 	font-family:"PTsans" ,arial, verdana, sans-serif;
     font-size:30px;
@@ -21,7 +24,7 @@ body {
 	}
 
 .main_header {
-	background-color:#b2d456;
+	background-color:#000000;
     min-height: 75px;
 	margin-bottom: 60px;
 }
