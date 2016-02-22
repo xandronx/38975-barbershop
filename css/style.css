@@ -340,4 +340,22 @@ input  {
 	padding-right:30px;
 	border-radius:3px;
     }
+	
+.goods_img {
+	display:inline-block;
+	
+}
 
+.goods_img:first-child {
+	display:block;
+}
+.goods_descr  {
+	width:400px;
+	float:right;
+	
+}
+
+.goods_group {
+	float:left;
+	width:480px;
+}
